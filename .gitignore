@@ -1,0 +1,27 @@
+# Node.js dependencies
+/node_modules
+.npm
+package-lock.json
+
+# Next.js build output
+.next
+out
+.env
+/env
+# TypeScript build output
+dist
+tsconfig.tsbuildinfo
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+/.vscode
+.idea/
+*.sublime-workspace
+
